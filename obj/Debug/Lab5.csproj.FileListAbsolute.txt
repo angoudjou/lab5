@@ -1,0 +1,7 @@
+C:\Users\nas\Documents\Bootcamp\Labs\BootCampCsharpLabs\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\nas\Documents\Bootcamp\Labs\BootCampCsharpLabs\Lab5\bin\Debug\Lab5.exe
+C:\Users\nas\Documents\Bootcamp\Labs\BootCampCsharpLabs\Lab5\bin\Debug\Lab5.pdb
+C:\Users\nas\Documents\Bootcamp\Labs\BootCampCsharpLabs\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+C:\Users\nas\Documents\Bootcamp\Labs\BootCampCsharpLabs\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\nas\Documents\Bootcamp\Labs\BootCampCsharpLabs\Lab5\obj\Debug\Lab5.exe
+C:\Users\nas\Documents\Bootcamp\Labs\BootCampCsharpLabs\Lab5\obj\Debug\Lab5.pdb
